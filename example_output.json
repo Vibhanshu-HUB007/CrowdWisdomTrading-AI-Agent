@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "timestamp": "2024-01-15T14:30:45.123Z",
+    "processing_time_seconds": 47.8,
+    "search_keywords": "stocks trading SPY QQQ #StockMarket bullish bearish Bitcoin BTC ETH crypto DeFi forex gold oil USD EUR Fed interest rates earnings technical analysis fundamentals chart NYSE NASDAQ options calls puts",
+    "filter_criteria": {
+      "min_followers": 5000,
+      "min_tweets_2weeks": 5
+    },
+    "status": "completed"
+  },
+  "statistics": {
+    "total_users_found": 156,
+    "total_users_filtered": 28,
+    "filter_success_rate": 0.179,
+    "search_effectiveness": "high",
+    "avg_followers_filtered_users": 15743,
+    "avg_posts_per_week_filtered_users": 7.2
+  },
+  "users": [
+    {
+      "url": "https://twitter.com/TradingGuru2024",
+      "username": "TradingGuru2024",
+      "followers": 12500,
+      "avg_posts_per_week": 8.5,
+      "verified": true,
+      "recent_tweets_count": 17,
+      "total_tweets_found": 23
+    },
+    {
+      "url": "https://twitter.com/CryptoAnalyst",
+      "username": "CryptoAnalyst",
+      "followers": 8750,
+      "avg_posts_per_week": 6.0,
+      "verified": false,
+      "recent_tweets_count": 12,
+      "total_tweets_found": 18
+    },
+    {
+      "url": "https://twitter.com/StockMarketPro",
+      "username": "StockMarketPro",
+      "followers": 22100,
+      "avg_posts_per_week": 9.5,
+      "verified": true,
+      "recent_tweets_count": 19,
+      "total_tweets_found": 31
+    },
+    {
+      "url": "https://twitter.com/ForexTrader_US",
+      "username": "ForexTrader_US",
+      "followers": 7890,
+      "avg_posts_per_week": 5.5,
+      "verified": false,
+      "recent_tweets_count": 11,
+      "total_tweets_found": 16
+    },
+    {
+      "url": "https://twitter.com/WallStreetDaily",
+      "username": "WallStreetDaily",
+      "followers": 34500,
+      "avg_posts_per_week": 12.0,
+      "verified": true,
+      "recent_tweets_count": 24,
+      "total_tweets_found": 42
+    },
+    {
+      "url": "https://twitter.com/TechStockAlert",
+      "username": "TechStockAlert",
+      "followers": 9200,
+      "avg_posts_per_week": 7.0,
+      "verified": false,
+      "recent_tweets_count": 14,
+      "total_tweets_found": 20
+    },
+    {
+      "url": "https://twitter.com/OptionsTrading",
+      "username": "OptionsTrading",
+      "followers": 16800,
+      "avg_posts_per_week": 8.0,
+      "verified": true,
+      "recent_tweets_count": 16,
+      "total_tweets_found": 25
+    },
+    {
+      "url": "https://twitter.com/MarketInsights",
+      "username": "MarketInsights",
+      "followers": 11300,
+      "avg_posts_per_week": 6.5,
+      "verified": false,
+      "recent_tweets_count": 13,
+      "total_tweets_found": 19
+    }
+  ],
+  "processing_details": {
+    "keyword_generation_time": 3.2,
+    "search_time": 28.4,
+    "filtering_time": 12.1,
+    "formatting_time": 4.1,
+    "api_calls_made": 15,
+    "rate_limits_hit": 0
+  }
+}
