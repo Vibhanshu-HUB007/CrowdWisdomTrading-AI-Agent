@@ -226,9 +226,6 @@ python -c "import openai; print('API key configured')"
 3. Add comprehensive tests
 4. Submit a pull request
 
-## 📄 License
-
-This project is created for the CrowdWisdomTrading internship assessment.
 
 ## 🙋‍♂️ Support
 
