@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-06T12:18:33.149186",
+    "processing_time_seconds": 10.657357215881348,
+    "filter_criteria": {
+      "min_followers": 5000,
+      "min_tweets_2weeks": 5
+    },
+    "status": "completed"
+  },
+  "statistics": {
+    "total_users_found": 156,
+    "total_users_filtered": 37,
+    "filter_success_rate": 0.23717948717948714,
+    "avg_followers_filtered_users": 17000
+  },
+  "users": [
+    {
+      "url": "https://twitter.com/FinancialWizard",
+      "username": "FinancialWizard",
+      "followers": 15200,
+      "avg_posts_per_week": 9.0,
+      "verified": true,
+      "recent_tweets_count": 18
+    },
+    {
+      "url": "https://twitter.com/CryptoTrader_Pro",
+      "username": "CryptoTrader_Pro",
+      "followers": 8900,
+      "avg_posts_per_week": 6.5,
+      "verified": false,
+      "recent_tweets_count": 13
+    },
+    {
+      "url": "https://twitter.com/StockAnalytics",
+      "username": "StockAnalytics",
+      "followers": 28500,
+      "avg_posts_per_week": 11.5,
+      "verified": true,
+      "recent_tweets_count": 23
+    },
+    {
+      "url": "https://twitter.com/MarketMaven",
+      "username": "MarketMaven",
+      "followers": 12800,
+      "avg_posts_per_week": 7.5,
+      "verified": false,
+      "recent_tweets_count": 15
+    },
+    {
+      "url": "https://twitter.com/TradingSignals",
+      "username": "TradingSignals",
+      "followers": 19600,
+      "avg_posts_per_week": 8.5,
+      "verified": true,
+      "recent_tweets_count": 17
+    }
+  ]
+}
