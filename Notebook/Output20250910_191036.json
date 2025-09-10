@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-10T19:04:24.919591",
+    "processing_time_seconds": 10.654465198516846,
+    "filter_criteria": {
+      "min_followers": 5000,
+      "min_tweets_2weeks": 5
+    },
+    "status": "completed"
+  },
+  "statistics": {
+    "total_users_found": 156,
+    "total_users_filtered": 37,
+    "filter_success_rate": 0.23717948717948714,
+    "avg_followers_filtered_users": 38504
+  },
+  "users": [
+    {
+      "url": "https://twitter.com/FinancialWizard",
+      "username": "FinancialWizard",
+      "followers": 46512,
+      "avg_posts_per_week": 12.4,
+      "verified": false,
+      "recent_tweets_count": 29
+    },
+    {
+      "url": "https://twitter.com/CryptoTrader_Pro",
+      "username": "CryptoTrader_Pro",
+      "followers": 44868,
+      "avg_posts_per_week": 14.5,
+      "verified": true,
+      "recent_tweets_count": 21
+    },
+    {
+      "url": "https://twitter.com/StockAnalytics",
+      "username": "StockAnalytics",
+      "followers": 22021,
+      "avg_posts_per_week": 17.8,
+      "verified": false,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/MarketMaven",
+      "username": "MarketMaven",
+      "followers": 11748,
+      "avg_posts_per_week": 15.6,
+      "verified": true,
+      "recent_tweets_count": 15
+    },
+    {
+      "url": "https://twitter.com/TradingSignals",
+      "username": "TradingSignals",
+      "followers": 43453,
+      "avg_posts_per_week": 14.6,
+      "verified": true,
+      "recent_tweets_count": 27
+    },
+    {
+      "url": "https://twitter.com/WallStreetDaily",
+      "username": "WallStreetDaily",
+      "followers": 60518,
+      "avg_posts_per_week": 5.6,
+      "verified": true,
+      "recent_tweets_count": 26
+    },
+    {
+      "url": "https://twitter.com/CryptoInsights",
+      "username": "CryptoInsights",
+      "followers": 18314,
+      "avg_posts_per_week": 16.6,
+      "verified": true,
+      "recent_tweets_count": 14
+    },
+    {
+      "url": "https://twitter.com/StockGuru",
+      "username": "StockGuru",
+      "followers": 13557,
+      "avg_posts_per_week": 6.1,
+      "verified": true,
+      "recent_tweets_count": 15
+    },
+    {
+      "url": "https://twitter.com/MarketAnalyst",
+      "username": "MarketAnalyst",
+      "followers": 7330,
+      "avg_posts_per_week": 17.2,
+      "verified": true,
+      "recent_tweets_count": 14
+    },
+    {
+      "url": "https://twitter.com/TradingPro",
+      "username": "TradingPro",
+      "followers": 26906,
+      "avg_posts_per_week": 13.6,
+      "verified": true,
+      "recent_tweets_count": 5
+    },
+    {
+      "url": "https://twitter.com/FinanceExpert",
+      "username": "FinanceExpert",
+      "followers": 62980,
+      "avg_posts_per_week": 18.7,
+      "verified": false,
+      "recent_tweets_count": 30
+    },
+    {
+      "url": "https://twitter.com/CryptoMaster",
+      "username": "CryptoMaster",
+      "followers": 59738,
+      "avg_posts_per_week": 19.7,
+      "verified": true,
+      "recent_tweets_count": 23
+    },
+    {
+      "url": "https://twitter.com/StockTrader",
+      "username": "StockTrader",
+      "followers": 60294,
+      "avg_posts_per_week": 16.2,
+      "verified": false,
+      "recent_tweets_count": 12
+    },
+    {
+      "url": "https://twitter.com/MarketWatch",
+      "username": "MarketWatch",
+      "followers": 30014,
+      "avg_posts_per_week": 19.9,
+      "verified": false,
+      "recent_tweets_count": 28
+    },
+    {
+      "url": "https://twitter.com/TradingView",
+      "username": "TradingView",
+      "followers": 44963,
+      "avg_posts_per_week": 17.3,
+      "verified": true,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/FinancialNews",
+      "username": "FinancialNews",
+      "followers": 58694,
+      "avg_posts_per_week": 15.0,
+      "verified": true,
+      "recent_tweets_count": 11
+    },
+    {
+      "url": "https://twitter.com/CryptoNews",
+      "username": "CryptoNews",
+      "followers": 54342,
+      "avg_posts_per_week": 19.1,
+      "verified": true,
+      "recent_tweets_count": 14
+    },
+    {
+      "url": "https://twitter.com/StockPicks",
+      "username": "StockPicks",
+      "followers": 43206,
+      "avg_posts_per_week": 7.5,
+      "verified": true,
+      "recent_tweets_count": 12
+    },
+    {
+      "url": "https://twitter.com/MarketTrends",
+      "username": "MarketTrends",
+      "followers": 6575,
+      "avg_posts_per_week": 5.6,
+      "verified": false,
+      "recent_tweets_count": 21
+    },
+    {
+      "url": "https://twitter.com/TradingTips",
+      "username": "TradingTips",
+      "followers": 64149,
+      "avg_posts_per_week": 7.5,
+      "verified": false,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/FinancialAdvisor",
+      "username": "FinancialAdvisor",
+      "followers": 11623,
+      "avg_posts_per_week": 17.0,
+      "verified": false,
+      "recent_tweets_count": 15
+    },
+    {
+      "url": "https://twitter.com/CryptoInvestor",
+      "username": "CryptoInvestor",
+      "followers": 7503,
+      "avg_posts_per_week": 12.8,
+      "verified": false,
+      "recent_tweets_count": 21
+    },
+    {
+      "url": "https://twitter.com/StockMarketPro",
+      "username": "StockMarketPro",
+      "followers": 16868,
+      "avg_posts_per_week": 7.8,
+      "verified": true,
+      "recent_tweets_count": 21
+    },
+    {
+      "url": "https://twitter.com/TradingBot",
+      "username": "TradingBot",
+      "followers": 19936,
+      "avg_posts_per_week": 14.4,
+      "verified": true,
+      "recent_tweets_count": 28
+    },
+    {
+      "url": "https://twitter.com/MarketInsider",
+      "username": "MarketInsider",
+      "followers": 33577,
+      "avg_posts_per_week": 9.8,
+      "verified": false,
+      "recent_tweets_count": 5
+    },
+    {
+      "url": "https://twitter.com/FinancialFreedom",
+      "username": "FinancialFreedom",
+      "followers": 23558,
+      "avg_posts_per_week": 19.6,
+      "verified": true,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/CryptoWhale",
+      "username": "CryptoWhale",
+      "followers": 65695,
+      "avg_posts_per_week": 8.4,
+      "verified": false,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/StockAlert",
+      "username": "StockAlert",
+      "followers": 64468,
+      "avg_posts_per_week": 19.4,
+      "verified": false,
+      "recent_tweets_count": 24
+    },
+    {
+      "url": "https://twitter.com/TradingStrategy",
+      "username": "TradingStrategy",
+      "followers": 8445,
+      "avg_posts_per_week": 13.2,
+      "verified": false,
+      "recent_tweets_count": 17
+    },
+    {
+      "url": "https://twitter.com/MarketMover",
+      "username": "MarketMover",
+      "followers": 28646,
+      "avg_posts_per_week": 19.2,
+      "verified": true,
+      "recent_tweets_count": 21
+    },
+    {
+      "url": "https://twitter.com/FinancialPlanner",
+      "username": "FinancialPlanner",
+      "followers": 66077,
+      "avg_posts_per_week": 10.9,
+      "verified": false,
+      "recent_tweets_count": 11
+    },
+    {
+      "url": "https://twitter.com/CryptoGains",
+      "username": "CryptoGains",
+      "followers": 54332,
+      "avg_posts_per_week": 19.9,
+      "verified": false,
+      "recent_tweets_count": 9
+    },
+    {
+      "url": "https://twitter.com/StockWatcher",
+      "username": "StockWatcher",
+      "followers": 52434,
+      "avg_posts_per_week": 11.8,
+      "verified": false,
+      "recent_tweets_count": 29
+    },
+    {
+      "url": "https://twitter.com/TradingMentor",
+      "username": "TradingMentor",
+      "followers": 51285,
+      "avg_posts_per_week": 12.8,
+      "verified": false,
+      "recent_tweets_count": 26
+    },
+    {
+      "url": "https://twitter.com/MarketBull",
+      "username": "MarketBull",
+      "followers": 57821,
+      "avg_posts_per_week": 19.2,
+      "verified": true,
+      "recent_tweets_count": 16
+    },
+    {
+      "url": "https://twitter.com/FinancialGoals",
+      "username": "FinancialGoals",
+      "followers": 51202,
+      "avg_posts_per_week": 15.7,
+      "verified": false,
+      "recent_tweets_count": 9
+    },
+    {
+      "url": "https://twitter.com/CryptoTrading",
+      "username": "CryptoTrading",
+      "followers": 31003,
+      "avg_posts_per_week": 10.5,
+      "verified": true,
+      "recent_tweets_count": 27
+    }
+  ]
+}
